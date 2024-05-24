@@ -133,7 +133,7 @@ span{
 }
 
 .hero-section{
-    background-image: url("/images/hero_image_latest.jpg");
+    background-image: url("./images/hero_image_latest.jpg");
     height: 400px;
     background-size: cover;
     display: flex;
